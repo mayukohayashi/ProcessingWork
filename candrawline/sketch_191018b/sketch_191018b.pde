@@ -11,6 +11,5 @@ void draw () {
   fill(150);
   stroke(120);
   rectMode(CENTER);
-  ;
-  rect(320, 180, 100, 50);
+  rect(mouseX, height-mouseY, 100, 50);
 };
