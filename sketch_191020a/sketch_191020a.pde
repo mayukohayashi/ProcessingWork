@@ -9,7 +9,7 @@ void draw () {
   
   //drawing stuff
   background(50);
-  fill(255);
+  fill(30, 188, 60);
   ellipse(circleX, 180, 24, 24);
 
   //logit
